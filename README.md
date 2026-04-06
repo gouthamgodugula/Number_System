@@ -4,7 +4,8 @@
 
 This is a simple menu-driven Java application that generates different types of number series based on user input. It helps in understanding basic programming concepts like loops, functions, and conditional statements.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-*No.of Features*
+#No.of Features#
+
 1.Generate Fibonacci Series
 
 2.Generate Even Number Series
@@ -13,7 +14,7 @@ This is a simple menu-driven Java application that generates different types of 
 
 4.Generate Square Number Series
 
-How to Run the Program: 
+#How to Run the Program: #
 
 Install Java (JDK)
 
@@ -48,6 +49,7 @@ Enter number of terms: 5
 
 Output:
 0 1 1 2 3
+
 ---------------------------------------------------------------------------------------------------------------------------
 #👨‍💻 Author#
 Goutham
